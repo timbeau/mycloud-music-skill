@@ -1,5 +1,6 @@
-Play my music
-Play music
-Play songs
-Let me listen to
-Lets hear some music
+Play my music by {artist}
+Play song {title} by {artist}
+Play songs by {artist}
+Let me listen to {artist}
+Lets hear some music by {artist}
+Play my music from {year}
